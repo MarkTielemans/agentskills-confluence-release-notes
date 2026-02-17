@@ -1,0 +1,15 @@
+Release 2.1, Jan 2026
+Custom tags and notes
+Users can now add personal tags and notes to scanned products for easier categorization and recall. Tags are searchable and filterable.
+
+Smart suggestions
+After scanning, the app now suggests related products, similar brands, or compatible accessories based on your scan history.
+	
+Multi-language support
+Added support for 10 new languages, including Spanish, French, and Japanese, so product info displays correctly worldwide.
+
+Export and share scans
+You can now export scanned product lists as CSV or PDF, or share directly with colleagues or family via email and messaging apps.
+
+AR preview mode
+Experimental feature: view scanned products in augmented reality to see how items would look in your environment before purchase.
